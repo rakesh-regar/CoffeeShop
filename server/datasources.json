@@ -1,0 +1,26 @@
+{
+    "db": {
+        "name": "db",
+        "connector": "memory"
+    },
+    "mydb": {
+        "host": "localhost",
+        "port": 27017,
+        "url": "mongodb://localhost:27017/CoffeeShop",
+        "database": "CoffeeShop",
+        "password": "",
+        "name": "mydb",
+        "user": "",
+        "connector": "mongodb"
+    },
+    "mydb2": {
+        "host": "localhost",
+        "port": 27017,
+        "url": "mongodb://localhost:27017/CoffeeShop",
+        "database": "CoffeeShop2",
+        "password": "",
+        "name": "mydb2",
+        "user": "",
+        "connector": "mongodb"
+    }
+}
